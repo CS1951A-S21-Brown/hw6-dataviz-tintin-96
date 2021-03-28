@@ -1,0 +1,185 @@
+country,winningPerc,victoryStrength
+Belize,21.43,22.22
+Afghanistan,25.0,17.71
+Palestine,18.75,9.0
+Bangladesh,12.5,15.1
+Cambodia,16.67,3.41
+Laos,6.82,16.67
+Malaysia,15.91,8.54
+Chinese Taipei,15.0,0
+Mongolia,37.5,12.5
+Burma,22.92,20.68
+Nepal,16.67,2.08
+Philippines,22.92,15.48
+Vietnam,25.0,14.07
+Bahamas,33.33,0
+U.S. Virgin Islands,15.0,11.11
+British Virgin Islands,16.67,0.0
+Aruba,33.33,9.03
+Saint Lucia,12.5,25.0
+Dominican Republic,27.78,7.14
+China PR,28.85,22.27
+Iran,39.38,21.46
+Maldives,10.0,10.0
+Iraq,25.0,23.45
+Yemen,18.75,22.92
+Jordan,29.46,25.56
+Kuwait,28.57,18.59
+Lebanon,17.71,24.89
+Oman,28.12,22.96
+Qatar,27.21,22.36
+Saudi Arabia,32.76,21.22
+Hong Kong,25.0,16.28
+Singapore,23.44,22.89
+Syria,22.73,27.08
+Tajikistan,14.06,20.08
+Thailand,15.22,21.72
+Turkmenistan,20.0,17.71
+Indonesia,12.5,20.0
+United Arab Emirates,26.92,19.32
+India,12.5,14.58
+Uzbekistan,33.33,25.11
+Kyrgyzstan,25.0,18.68
+Antigua and Barbuda,20.83,21.67
+Curaçao,25.0,14.69
+Australia,36.31,24.52
+Bahrain,19.64,20.34
+Canada,28.12,19.69
+Nicaragua,33.33,7.14
+El Salvador,27.78,22.14
+Grenada,16.67,25.0
+Guyana,27.08,19.89
+Barbados,5.56,15.0
+Haiti,25.0,18.5
+Japan,33.97,25.42
+North Korea,26.79,23.95
+South Korea,35.14,23.89
+Saint Kitts and Nevis,16.67,20.54
+Puerto Rico,28.57,19.1
+Suriname,21.43,13.89
+Trinidad and Tobago,17.65,24.79
+Bermuda,28.57,18.85
+Guatemala,34.62,21.32
+Panama,26.35,20.6
+Argentina,31.67,22.63
+Chile,28.29,23.57
+Ecuador,25.0,23.46
+Venezuela,17.65,23.63
+Peru,22.44,25.09
+Paraguay,19.12,24.2
+Uruguay,28.89,25.55
+Bolivia,11.76,24.67
+Colombia,27.91,23.1
+Chad,29.17,25.13
+Tanzania,16.67,22.0
+Comoros,8.33,20.0
+Mozambique,20.0,11.51
+Namibia,27.08,13.54
+Equatorial Guinea,10.0,25.25
+Madagascar,16.67,14.38
+Rwanda,17.5,6.25
+Guinea-Bissau,12.5,10.0
+Togo,15.0,21.09
+Lesotho,20.0,12.5
+Burundi,16.67,0.0
+São Tomé and Príncipe,25.0,26.56
+Congo,28.12,23.96
+Kenya,29.17,21.06
+Eswatini,16.67,0.0
+DR Congo,29.69,20.02
+Ethiopia,25.0,21.61
+Egypt,36.84,24.97
+Ghana,30.26,24.55
+Algeria,28.75,24.01
+Burkina Faso,28.12,25.96
+Cameroon,32.89,26.67
+Central African Republic,18.75,20.83
+Botswana,25.0,14.06
+Gambia,6.25,16.67
+Morocco,33.82,16.69
+Ivory Coast,36.84,19.13
+Malawi,18.75,24.31
+Senegal,36.84,21.79
+Liberia,10.0,23.21
+Sierra Leone,21.88,15.71
+Cape Verde,21.43,21.96
+Sudan,12.5,26.07
+Zambia,32.14,24.88
+Tunisia,36.84,22.17
+Angola,15.62,10.0
+Uganda,33.93,22.64
+Benin,31.25,19.38
+Mali,12.5,20.12
+Niger,17.5,21.08
+Gabon,17.86,22.99
+Nigeria,38.04,26.31
+South Africa,26.79,21.88
+Libya,26.79,24.76
+Zimbabwe,8.33,20.0
+Guinea,25.0,20.55
+Costa Rica,31.58,26.34
+Cuba,6.25,25.0
+Honduras,28.47,24.71
+Jamaica,15.0,30.3
+Mexico,33.33,27.62
+United States,36.36,25.98
+Albania,22.5,16.04
+Cyprus,8.75,26.43
+Andorra,2.5,27.5
+Hungary,27.5,13.5
+Azerbaijan,20.0,18.33
+Israel,22.5,19.58
+Bulgaria,25.0,20.75
+Italy,35.0,18.21
+Croatia,31.62,27.64
+North Macedonia,17.5,22.81
+Estonia,16.25,14.2
+Romania,27.27,18.05
+Finland,18.06,24.61
+France,34.38,24.26
+Georgia,13.89,18.22
+Belarus,5.56,19.44
+Germany,40.83,20.96
+Faroe Islands,7.5,8.75
+Iceland,32.0,24.32
+Norway,22.5,19.7
+Kazakhstan,5.0,7.5
+Republic of Ireland,29.55,20.25
+Latvia,15.0,6.88
+Greece,33.04,19.72
+Bosnia and Herzegovina,34.78,16.63
+Lithuania,17.5,14.0
+Slovakia,30.0,16.75
+Luxembourg,15.0,21.23
+Portugal,37.07,21.25
+Malta,2.5,20.0
+Armenia,20.0,21.26
+Moldova,10.0,13.8
+England,40.0,20.05
+Montenegro,27.5,19.58
+Poland,33.7,16.95
+Netherlands,38.89,21.13
+Turkey,26.25,19.28
+New Caledonia,27.5,12.5
+New Zealand,38.33,16.25
+Russia,31.94,27.02
+Northern Ireland,25.0,24.46
+Slovenia,25.0,19.39
+Switzerland,36.67,20.48
+Solomon Islands,20.83,8.33
+Tahiti,16.67,0.0
+Wales,27.5,23.49
+Belgium,35.16,23.38
+Denmark,28.85,21.72
+Czech Republic,25.0,16.98
+Scotland,22.5,20.69
+Serbia,29.35,21.56
+Austria,30.0,17.92
+Ukraine,31.82,23.73
+Spain,40.0,20.13
+Sweden,30.17,22.78
+Brazil,35.83,25.2
+Bhutan,10.0,0.0
+Guam,12.5,16.25
+Mauritania,25.0,0
+Kosovo,20.0,18.06

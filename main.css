@@ -9,4 +9,40 @@
     text-align: center;
 }
 
+.tooltip {
+    position: absolute;
+    font-size: 12px;
+    min-width: 100px;
+    padding: 10px;
+    width:  auto;
+    height: auto;
+}
+
+#comment { 
+    margin-left:20px;
+    margin-right: 20px;
+    padding: 20px;
+    margin-top: 50px;
+    font-size:13px;
+}
+
+#commentTwo { 
+    margin-left:20px;
+    margin-right: 20px;
+    padding: 20px;
+    margin-top: 40px;
+    font-size:13px;
+}
+
+
+.writtenReport {
+    margin-left:40px;
+}
+
+
+/* .space {
+    margin-bottom: 100px;
+    margin-top:100px;
+} */
+
 /* Include any custom CSS styling here! */

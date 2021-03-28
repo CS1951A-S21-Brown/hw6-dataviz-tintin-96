@@ -15,12 +15,89 @@
     <!--  We included a basic HTML structure for the 3 graphs here. Feel free to change this if you'd like  -->
     <div class="row">
         <div class="col-lg-6">
-            <div id="graph1"></div>
-            <div id="graph2"></div><br/>
+            <div id="graph1" class="space"></div>
+
+            <div id="graph2" class="space"></div><br/>
+            <div id="comment">Nations that played less than 15 matches are not included in this graph. The winning percentage is calculated 
+            by doing (number of matches won + number of neutral matches * 1/2) / total number of matches played. Hover over the 
+            bars to learn more about the top 10 nations in FIFA.</div> <br/>
         </div>
         <div class="col-lg-6">
-            <div id="graph3"></div>
+            <button type="button" class="btn btn-info" onclick="dataTransform_graphThree(0, 'winningPerc')">Winning Percentages</button>
+            <button type="button" class="btn btn-info" onclick="dataTransform_graphThree(1, 'victoryStrength')">Victory Strengths</button>
+            <div id="graph3" class="space"></div>
+            <div id="commentTwo">Toggle between "Winning Percentages" and "Victory Strengths" to discover which FIFA team is predicted to most likely win the next
+            world cup based on the winning percentage or the victory strengths of the nations. These winning percentage or victory strengths
+            were calculated through using data from the last 2 world cups. Winning percentage is calculated by doing (number of matches won + number of neutral matches * 1/2) / total number of matches played.
+            Countries that played less than 5 matches in total are not included 
+            in the winning percentages or victory strengths graphs. Victory strength for each nation is calculated by finding the average winning percentage of all the opponents that a nation has won against. 
+            We excluded opponents in calculating victory strength for a nation that played less than 5 matches. </div>
         </div>
+    </div>
+    <div class="writtenReport">
+    <h4> Written Report</h4> 
+    <div class="question">
+    1.) I answered the FIFA questions. My line graph answers the first question by showing from 2000-2004,
+    the number of football games per each of those years. One can follow the line starting from 2000, and see how the number of 
+    football games per year have changed up til 2004. There’s a number next to the dot, helping readers see more easily the number of 
+    football games for each of those years.  </br> </br>
+    My graph answers the second question by showing the overall top 10 nations in FIFA by winning percentages, and it’s shown in 
+    descending order which helps readers quickly spot the top 10 nations by ranking in order. Furthermore, readers can quickly see 
+    the winning percentages of each nation next to the bars. </br></br>
+    My graph answers the third question by showing the overall (top 15) nations most likely to win the next Fifa World Cup, 
+    by ranking the countries based on winning percentages or victory strengths. The data chosen was from the FIFA World Cup or
+    Fifa World cup qualifiers in 2011-2018, which essentially are the last 2 World Cups. Readers can quickly see the winning percentages
+    or victory strength of each nation next to the bars, in descending order, where the top bar or nation represents the nation most 
+    likely to win the next FIFA World Cup.
+    </div>
+    </br>
+    <div class="question">
+    2.) 3 reasons why d3 was helpful and improved my visualization: </br> </br>
+
+    - d3 is fast and efficient, supporting my large datasets and dynamic behaviors for animation and interactivity. 
+    Allowed me to use tooltips to provide more information and buttons to show different graphs seamlessly. </br> </br>
+
+    -d3 worked seamlessly with other web technologies such as HTML, CSS and SVG. </br> </br>
+
+    - d3 allowed me to manipulate Document Object Models (DOM) based on my data. 
+    </div>
+    </br>
+
+    <div class="question"> 
+    3.) 3 reasons d3 would not be the best tool for creating a visualization:  </br> </br>
+
+    - Document Object Model manipulation can be inefficient and slow if there are a lot of inputs.  </br> </br>
+
+    - Creating charts from d3 can be time-inefficient, in that there are other data visualizations libraries that have
+    pre-generated charts made for me already that I can easily use. </br> </br>
+
+    - d3 involves using Javascript, which can be hard to learn and pick up, in contrast to using other 
+    data visualization library that may have a smaller learning curve. 
+
+    </div>
+    </br>
+    <div class="question"> 
+    4.) Users that have great vision will find my dashboard very accessible, in how the colors contrast well, 
+    there are numbers next to the bar or circles in my line graph indicating their values and there’s a white space separating 
+    each bar. Users that may have more difficulty are blind users, for the story of the data is being told mainly through visuals. 
+    In the future, I can make my dashboard more accessible for all audiences, specifically for blind users, through “structuring [my] 
+    SVG markup to allow users to tab through each data point,” or using “sonification.” (Schepers May 2020 “Why Accessibility is at 
+    the Heart of Data Visualization)
+    </div>
+    </br>
+    <div class="question">
+    5.) I started my implementation process by creating 3 new CSV files that contain the columns and information that allows me to answer 
+    the 3 questions requested in the FIFA section. Afterwards, in designing my dashboard, I first thought about what graph would allow 
+    me to answer the question and tell the story in a clear, concise way for my audience. I then drew out all three graphs on paper, and
+    thought about the title, x-axis and its title, and the y axis and its title. I then thought about font size, placement on screen, and
+    colors. I then implemented my dashboard. I think before I implemented my dashboard, I should have thought of another signal that I 
+    could have displayed my message that wasn’t visual, such as sound potentially, for people that are blind. What stopped me from 
+    implementing sound as a potential signal to display the data, is that I wasn’t sure how to output sound on my dashboard in a clear,
+    concise manner for those who would prefer to learn more about the data through that medium. Also, before implementing my dashboard, 
+    I could have just thought about in general how to make my dashboard more accessible for blind users. What stopped me was mainly time 
+    and I wouldn’t know how to implement sonification or an alternative data table to present my data. 
+    </div>
+
     </div>
     <!--Feel free to add more JavaScript files as needed-->
     <script type="text/javascript" src="main.js"></script>

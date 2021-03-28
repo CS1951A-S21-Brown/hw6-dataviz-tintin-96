@@ -1,0 +1,253 @@
+country,winningPerc,total,wins,neutrals
+Scotland,58.96,781,439,43
+England,68.93,1009,642,107
+Wales,41.46,656,259,26
+Northern Ireland,38.9,644,233,35
+United States,51.24,684,314,73
+Canada,48.56,381,137,96
+Uruguay,55.2,884,379,218
+Argentina,61.84,980,472,268
+Austria,53.6,778,398,38
+Hungary,57.7,928,504,63
+Czechoslovakia,57.76,496,264,45
+Belgium,54.04,768,381,68
+France,58.1,840,441,94
+Switzerland,45.92,797,337,58
+Netherlands,59.18,784,420,88
+Germany,65.75,949,549,150
+Sweden,59.87,1018,556,107
+Norway,46.39,804,353,40
+Italy,65.31,800,454,137
+Chile,50.66,760,284,202
+Finland,37.57,744,256,47
+Luxembourg,13.43,402,48,12
+Catalonia,42.55,47,20,0
+Russia,64.48,694,382,131
+Denmark,55.97,795,413,64
+Brazil,65.85,981,481,330
+Basque Country,73.68,57,42,0
+Japan,55.18,627,236,220
+Philippines,43.32,232,52,97
+Paraguay,50.56,716,266,192
+Estonia,36.83,467,148,48
+Costa Rica,54.55,604,241,177
+El Salvador,47.9,501,140,200
+Guatemala,47.51,442,129,162
+Yugoslavia,56.46,480,242,58
+Poland,53.56,815,389,95
+Spain,68.59,694,419,114
+Portugal,55.63,613,294,94
+Romania,59.37,694,372,80
+New Zealand,52.21,362,147,84
+Australia,58.61,517,247,112
+Latvia,40.84,393,134,53
+Mexico,57.54,869,311,378
+China PR,56.71,596,250,176
+Lithuania,37.16,366,109,54
+Turkey,51.06,567,257,65
+Aruba,35.0,120,28,28
+Curaçao,52.56,332,110,129
+Bulgaria,52.46,672,318,69
+Egypt,60.65,634,296,177
+South Africa,55.38,400,185,73
+Haiti,49.89,449,155,138
+Jamaica,49.82,564,212,138
+Republic of Ireland,52.65,566,270,56
+Kenya,49.15,645,233,168
+Uganda,53.93,624,233,207
+Bolivia,40.94,458,126,123
+Peru,44.62,623,193,170
+Honduras,52.23,515,180,178
+Guyana,39.2,264,79,49
+Trinidad and Tobago,54.14,665,303,114
+Belarus,43.2,250,94,28
+Ukraine,59.36,267,139,39
+Barbados,41.83,263,86,48
+Nicaragua,34.52,155,22,63
+Greece,51.6,564,262,58
+Martinique,55.92,304,123,94
+Dominica,40.93,182,45,59
+Cuba,48.96,337,108,114
+Guadeloupe,48.09,236,69,89
+Israel,44.28,428,174,31
+Indonesia,46.2,553,140,231
+Suriname,57.04,348,164,69
+French Guiana,39.17,157,37,49
+Saint Lucia,41.46,199,57,51
+Ecuador,47.36,512,157,171
+Colombia,54.73,550,203,196
+Venezuela,37.14,381,100,83
+Saint Kitts and Nevis,46.37,179,66,34
+Grenada,45.75,212,66,62
+India,44.18,404,96,165
+Panama,44.04,428,137,103
+Slovakia,52.23,291,135,34
+Croatia,67.3,318,186,56
+Lebanon,41.21,273,81,63
+Puerto Rico,29.91,117,24,22
+Afghanistan,40.99,111,15,61
+Iran,64.53,499,241,162
+Mongolia,42.47,73,15,32
+Tanzania,42.66,531,158,137
+Zimbabwe,53.18,456,189,107
+Zambia,58.08,718,318,198
+Iceland,41.63,448,163,47
+Albania,34.19,332,102,23
+Montenegro,46.73,107,49,2
+Madagascar,48.2,222,82,50
+Mauritius,41.0,250,78,49
+Réunion,37.65,81,18,25
+Zanzibar,40.98,205,17,134
+Djibouti,25.0,88,6,32
+Ethiopia,45.17,362,124,79
+DR Congo,57.36,462,203,124
+South Korea,59.34,862,334,355
+Vietnam,48.02,202,69,56
+Macau,29.3,128,12,51
+Dominican Republic,45.13,113,38,26
+Cyprus,24.03,362,84,6
+Sierra Leone,40.32,253,80,44
+Nigeria,61.02,576,264,175
+Syria,50.74,404,124,162
+Serbia,58.55,275,126,70
+Chinese Taipei,39.6,149,29,60
+Ghana,59.08,600,259,191
+New Caledonia,52.86,227,68,104
+Vanuatu,40.23,174,21,98
+Fiji,46.38,221,58,89
+Burma,47.65,341,64,197
+Pakistan,37.11,190,27,87
+Sri Lanka,35.82,201,27,90
+German DR,58.22,298,165,17
+Tahiti,50.95,210,50,114
+Gambia,35.68,213,55,42
+Hong Kong,44.86,389,101,147
+Singapore,44.06,556,150,190
+Malaysia,45.02,602,169,204
+Guinea-Bissau,42.52,147,35,55
+Burundi,42.82,188,46,69
+Cambodia,36.0,225,29,104
+Thailand,48.44,639,195,229
+Vietnam Republic,53.27,153,34,95
+Kyrgyzstan,40.75,146,31,57
+Moldova,32.05,234,57,36
+North Vietnam,43.75,24,3,15
+Togo,46.37,386,136,86
+North Korea,56.18,340,104,174
+Sudan,48.36,397,127,130
+Malta,17.88,397,60,22
+Tunisia,55.08,581,258,124
+Libya,46.74,337,116,83
+Malawi,45.56,563,205,103
+Morocco,60.0,535,259,124
+Benin,36.35,260,74,41
+Cape Verde,46.69,166,54,47
+Cameroon,60.49,534,231,184
+Central African Republic,34.9,96,19,29
+Mali,52.1,499,182,156
+Gabon,46.66,359,126,83
+Burkina Faso,47.29,388,137,93
+Ivory Coast,61.15,565,258,175
+Congo,47.07,375,141,71
+Iraq,56.67,547,169,282
+Saint Vincent and the Grenadines,56.51,146,59,47
+Senegal,55.86,529,212,167
+Guinea,54.29,466,177,152
+Algeria,56.53,505,216,139
+Kuwait,50.44,564,184,201
+Jordan,46.81,392,131,105
+Papua New Guinea,40.09,116,13,67
+Solomon Islands,49.71,170,41,87
+Liberia,37.65,247,79,28
+Somalia,36.92,107,6,67
+Laos,33.13,163,15,78
+Saudi Arabia,54.9,623,216,252
+Chad,38.7,115,27,35
+Bermuda,42.76,152,55,20
+Niger,37.07,205,60,32
+Bahrain,46.93,489,134,191
+Palestine,50.81,186,47,95
+Yemen,41.15,226,37,112
+Wallis Islands and Futuna,43.75,24,0,21
+Mauritania,38.92,212,50,65
+Western Australia,43.1,29,0,25
+Eswatini,32.61,230,58,34
+Botswana,42.65,279,99,40
+Qatar,49.81,533,185,161
+Lesotho,32.86,248,59,45
+Bahamas,33.33,36,8,8
+Brunei,32.19,73,4,39
+Cook Islands,46.51,43,5,30
+Yemen DPR,43.75,24,3,15
+United Arab Emirates,51.06,521,175,182
+Faroe Islands,22.54,224,38,25
+Nepal,37.36,178,26,81
+Antigua and Barbuda,44.39,196,62,50
+Bangladesh,44.23,208,46,92
+Seychelles,30.09,113,17,34
+Oman,50.33,450,156,141
+Equatorial Guinea,33.08,130,32,22
+Mozambique,48.36,304,122,50
+Guam,44.95,99,21,47
+Angola,55.4,352,155,80
+São Tomé and Príncipe,29.35,46,10,7
+Rwanda,42.21,244,66,74
+Northern Cyprus,52.94,34,9,18
+Armenia,32.86,210,55,28
+Georgia,40.25,241,85,24
+Azerbaijan,32.65,245,59,42
+Kazakhstan,35.35,198,53,34
+Tonga,42.86,56,6,36
+Tuvalu,44.12,34,0,30
+Samoa,41.18,51,11,20
+Greenland,43.84,73,2,60
+Liechtenstein,14.14,198,23,10
+Bhutan,31.48,81,7,37
+American Samoa,39.58,48,1,36
+Belize,40.51,79,18,28
+Cayman Islands,31.32,91,17,23
+Anguilla,21.31,61,4,18
+British Virgin Islands,34.62,91,18,27
+Sint Maarten,35.29,34,5,14
+Namibia,37.77,229,67,39
+Ynys Môn,52.46,61,8,48
+Shetland,47.06,51,4,40
+Åland Islands,51.09,46,7,33
+Saint Martin,44.32,44,10,19
+San Marino,2.76,163,3,3
+Montserrat,38.75,40,8,15
+Slovenia,49.8,247,110,26
+Jersey,56.71,82,26,41
+Guernsey,45.45,77,13,44
+Isle of Wight,54.55,44,8,32
+Turkmenistan,43.12,138,38,43
+Tajikistan,47.57,144,49,39
+Uzbekistan,52.36,275,109,70
+Eritrea,33.33,72,9,30
+Czech Republic,67.17,297,175,49
+Gibraltar,38.78,98,13,50
+Isle of Man,46.94,49,4,38
+North Macedonia,43.88,237,93,22
+Bosnia and Herzegovina,51.36,220,98,30
+Maldives,37.42,159,33,53
+Andorra,14.33,164,11,25
+Frøya,43.33,30,0,26
+U.S. Virgin Islands,27.78,54,10,10
+Northern Mariana Islands,27.08,24,0,13
+Turks and Caicos Islands,27.78,27,3,9
+Gotland,51.67,30,5,21
+Saare County,51.43,35,1,34
+Orkney,45.24,21,0,19
+Falkland Islands,46.55,29,0,27
+East Timor,25.49,51,1,24
+Western Isles,42.86,28,0,24
+Kosovo,55.13,39,15,13
+Sápmi,40.38,26,4,13
+Comoros,30.83,60,8,21
+Menorca,52.38,21,1,20
+Iraqi Kurdistan,53.7,27,5,19
+Padania,56.98,43,7,35
+Bonaire,42.86,21,0,18
+South Sudan,30.23,43,4,18
+Abkhazia,57.14,28,7,18
+Székely Land,39.13,23,0,18
