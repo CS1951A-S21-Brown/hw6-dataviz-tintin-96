@@ -41,7 +41,7 @@ let svgThree = d3.select("#graph3")
     .append("g")
     .attr('transform', `translate(${margin.left},${margin.top})`);
 
-csv_file = ["../data/graphOne.csv", "../data/graphTwo.csv","../data/graphThree.csv"]
+csv_file = ["./data/graphOne.csv", "./data/graphTwo.csv","./data/graphThree.csv"]
 
 // Graph One - Line graph 
 d3.csv(csv_file[0]).then(function(data) {
